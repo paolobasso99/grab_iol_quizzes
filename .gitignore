@@ -1,0 +1,6 @@
+.env
+chromedriver.exe
+venv
+.vscode
+__pycache__
+questions.json
