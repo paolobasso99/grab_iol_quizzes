@@ -6,16 +6,17 @@ from selenium.common.exceptions import NoSuchElementException
 from bs4 import BeautifulSoup
 import urllib.parse as urlparse
 from urllib.parse import parse_qs
-
+from components.Question import Question
 
 class Scraper:
-    def __init__(self, iol_course_url: str, unibo_username: str, unibo_password: str, chromedriver_path: str, questions: dict = {}) -> None:
+    def __init__(self, iol_course_url: str, unibo_username: str, unibo_password: str, chromedriver_path: str, questions_db_path: str) -> None:
         self.iol_course_url = iol_course_url
         self.unibo_username = unibo_username
         self.unibo_password = unibo_password
         self.chromedriver_path = chromedriver_path
+        self.Question = Question(questions_db_path)
+
         self.quizzes = {}
-        self.questions = questions
 
         # Init webdriver
         self.driver = webdriver.Chrome(self.chromedriver_path)
@@ -55,12 +56,6 @@ class Scraper:
 
             self.quizzes[name] = Scraper.get_id_from_url(url)
 
-    def get_quizzes(self) -> dict:
-        return self.quizzes
-
-    def get_questions(self) -> dict:
-        return self.questions
-
     def start_quiz(self, name: str, min_times_after_not_new: int = 1):
         # Check if name in quizzes
         if name in self.quizzes:
@@ -74,7 +69,7 @@ class Scraper:
                     times_after_not_new = 0
 
                 summary_html = self.get_summary_html(name)
-                has_new = self.process_summary(summary_html)
+                has_new = self.process_summary(summary_html, quiz=name)
 
         else:
             raise Exception(
@@ -119,15 +114,8 @@ class Scraper:
         # Process summary
         return self.driver.page_source
 
-    def add_question(self, text: str, answers: list) -> bool:
-        if(not(text in self.questions) or set(answers) != set(self.questions[text])):
-            self.questions[text] = answers
-            return True
 
-        return False
-
-
-    def process_summary(self, html) -> bool:
+    def process_summary(self, html, quiz = "") -> bool:
         soup = BeautifulSoup(html, 'html.parser')
         has_new = False
 
@@ -144,7 +132,8 @@ class Scraper:
                     answers.append(answer_element.find(text=True, recursive=False))
 
                 # Add to questions if needed
-                if(self.add_question(question_text, answers)):
+                if(self.Question.add(question_text, answers, quiz)):
+                    print(question_text)
                     has_new = True
 
         return has_new
