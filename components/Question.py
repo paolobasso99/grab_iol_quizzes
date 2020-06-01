@@ -70,3 +70,5 @@ class Question:
                 for a in q_answers:
                     if(not(a is None)):
                         writer.writerow(['', a.encode(encoding='UTF-8'), ''])
+                    else:
+                        writer.writerow(['', "", ''])
