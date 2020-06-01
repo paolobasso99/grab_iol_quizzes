@@ -2,6 +2,7 @@ import json
 import sqlite3
 import csv
 
+
 class Question:
     def __init__(self, db_path: str) -> None:
         self.db_path = db_path
@@ -13,8 +14,9 @@ class Question:
             ''' SELECT count(name) FROM sqlite_master WHERE type='table' AND name='questions' ''')
 
         if not(c.fetchone()[0] == 1):
-            c.execute('''CREATE TABLE questions (text text, answers text, quiz text)''')
-        
+            c.execute(
+                '''CREATE TABLE questions (text text, answers text, quiz text)''')
+
         db.commit()
         db.close()
 
@@ -33,9 +35,10 @@ class Question:
             q_answers = json.loads(q_answers)
             if(set(q_answers) == set(answers)):
                 addable = False
-        
+
         if(addable):
-            c.execute("INSERT INTO questions VALUES (?,?,?)",(text, json.dumps(answers), quiz))
+            c.execute("INSERT INTO questions VALUES (?,?,?)",
+                      (text, json.dumps(answers), quiz))
 
         # Close
         db.commit()
@@ -58,17 +61,21 @@ class Question:
 
         # Determinate if question needs to be added
         with open(path, 'w', newline='') as csvfile:
-            writer = csv.writer(csvfile)
-            writer.writerow(['number','question', 'Source'])
-            
+            writer = csv.writer(csvfile, dialect='excel')
+            writer.writerow(['number', 'question', 'Source'])
+
             number = 0
             for q_text, q_answers, q_quiz in questions:
-                writer.writerow([number, q_text.encode(encoding='UTF-8'), q_quiz])
+                try:
+                    writer.writerow([number, q_text, q_quiz])
+                except:
+                    writer.writerow([number, '', q_quiz])
+                    print(number)
                 number += 1
 
                 q_answers = json.loads(q_answers)
                 for a in q_answers:
                     if(not(a is None)):
-                        writer.writerow(['', a.encode(encoding='UTF-8'), ''])
+                        writer.writerow(['', a, ''])
                     else:
                         writer.writerow(['', "", ''])
