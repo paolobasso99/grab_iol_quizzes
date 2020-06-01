@@ -1,8 +1,6 @@
 from components.Settings import Settings
 from components.Scraper import Scraper
 
-import os
-
 settings = Settings()
 
 scraper = Scraper(
@@ -15,7 +13,7 @@ scraper = Scraper(
 
 scraper.load_quizzes()
 
-scraper.start_quizzes()
+scraper.start_quizzes(5)
 
 # Quit
 scraper.quit_driver()

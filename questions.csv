@@ -1,0 +1,820 @@
+number,question,Source
+0,b'I Personal Mobile Device sono',Domande Circuiti Digitali
+,b'dispositivi wireless con un\xe2\x80\x99interfaccia utente multimediale',
+,b'composti da una collezione di Desktop Computer e/o Server',
+,b'processori usati nelle workstation e nei desktop computer',
+,b'processori che si trovano dentro le macchine di uso nella vita quotidiana',
+1,b'Quale delle seguenti affermazioni non si applica agli embedded computer',Domande Circuiti Digitali
+,b'alta varianza in termini di rapporto prezzo/performance',
+,b'il costo energetico del raffreddamento \xc3\xa8 significativo',
+,"b""il prezzo \xc3\xa8 l'elemento dominante""",
+,b'se connessi a internet prendono il nome di Internet of Things (IoT)',
+2,b'I Clusters/Warehouse-scale Computer sono',Domande Circuiti Digitali
+,b'processori che si trovano dentro le macchine di uso nella vita quotidiana',
+,b'processori usati nelle workstation e nei desktop computer',
+,b'dispositivi wireless con un\xe2\x80\x99interfaccia utente multimediale',
+,b'composti da una collezione di Desktop Computer e/o Server',
+3,b'Quale delle seguenti affermazioni non \xc3\xa8 vera per la resa di processo (Yield)',Domande Circuiti Digitali
+,"b""La Yield diminuisce al crescere dell'area del die""",
+,b'Al diminuire della Yield cresce il costo per chip',
+,"b""La Yield aumenta al crescere dell'area del die""",
+,b'Al diminuire della Yield cresce il numero di difetti per die',
+4,b'Quale delle seguenti affermazioni non si applica ai personal mobile devices',Domande Circuiti Digitali
+,b'se connessi a internet prendono il nome di IoT',
+,b'sono dispositivi wireless con un\xe2\x80\x99interfaccia utente multimediale',
+,b'possono eseguire applicazioni e software sviluppato esternamente',
+,b'La progettazione \xc3\xa8 vincolata dal consumo energetico e dimensione',
+5,b'Gli embedded computer sono',Domande Circuiti Digitali
+,b'processori che si trovano dentro le macchine di uso nella vita quotidiana',
+,b'composti da una collezione di Desktop Computer e/o Server',
+,b'processori usati nelle workstation e nei desktop computer',
+,b'dispositivi wireless con un\xe2\x80\x99interfaccia utente multimediale',
+6,b'Quale delle seguenti affermazioni non \xc3\xa8 vera per la resa di processo (Yield)',Domande Circuiti Digitali
+,"b""La Yield aumenta al crescere dell'area del die""",
+,"b""All'aumentare della Yield diminuisce il numero di difetti per die""",
+,"b""All'aumentare della Yield cala il costo per chip""",
+,"b""La Yield diminuisce al crescere dell'area del die""",
+7,b'Quale delle seguenti affermazioni  \xc3\xa8 falsa per il costo dei circuiti integrati (IC)',Domande Circuiti Digitali
+,b'I costi variabili includono i costi per la produzione dalle maschere (Masks)',
+,"b""Il costo di un circuito integrato cresce con l'area del Die""",
+,b'I costi fissi nello sviluppo di un circuito integrato sono significativi',
+,b'Il costo dei circuiti integrati \xc3\xa8 influenzato dalla resa (yield) del processo',
+8,b'Quale delle seguenti affermazioni  \xc3\xa8 falsa per il costo dei circuiti integrati (IC)',Domande Circuiti Digitali
+,b'I costi fissi nello sviluppo di un circuito integrato sono significativi',
+,b'I costi fissi includono i costi per la produzione dalle maschere (Masks)',
+,"b""Il costo dei circuiti integrati non dipende dall'area del Die""",
+,b'Il costo dei circuiti integrati \xc3\xa8 influenzato dalla resa (yield) del processo',
+9,b'Quale delle seguenti affermazioni non \xc3\xa8 vera per la resa di processo (Yield)',Domande Circuiti Digitali
+,"b""La Yield diminuisce al crescere dell'area del die""",
+,b'Al diminuire della Yield cresce il numero di difetti per die',
+,b'Al diminuire della Yield diminuisce il numero di difetti per die',
+,"b""All'aumentare della Yield cala il costo per chip""",
+10,b'Quale delle seguenti affermazioni  \xc3\xa8 falsa per il costo dei circuiti integrati (IC)',Domande Circuiti Digitali
+,"b""Il costo di un circuito integrato cresce con l'area del Die""",
+,b'I costi fissi includono i costi per la produzione dalle maschere (Masks)',
+,b'Il costo dei circuiti integrati \xc3\xa8 influenzato dalla resa (yield) del processo',
+,b'I costi fissi nello sviluppo di un circuito integrato sono trascurabili',
+11,"b""All'aumentare dell'area di un circuito integrato""",Domande Circuiti Digitali
+,b'Il costo di produzione di ciascun chip non varia.',
+,b'Il costo di produzione di ciascun chip cresce',
+,"b""Non \xc3\xa8 possibile variare l'area di un circuito integrato.""",
+,b'Il costo di produzione di ciascun chip diminuisce',
+12,b'La rappresentazione binaria del numero 51 decimale \xc3\xa8:',Domande sistemi di numerazione
+,b'1100110',
+,b'010001',
+,b'1011110',
+,b'110011',
+13,b'Quali dei seguenti numeri binari rappresenta la codifica corretta a 8 bit del numero -22 decimale tramite la codifica con bit di segno',Domande sistemi di numerazione
+,b'0001 0110',
+,b'1001 0110',
+,b'1110 1010',
+,b'1110 1001',
+14,b'La rappresentazione binaria in complemento a due a 8 bit del numero decimale -10 \xc3\xa8',Domande sistemi di numerazione
+,b'11110101',
+,b'11110110',
+,b'10001010',
+,b'10000010',
+15,b'La rappresentazione binaria del numero codificato in esadecimale 0x34 \xc3\xa8',Domande sistemi di numerazione
+,b'0001 0010',
+,b'0011 0101',
+,b'0010 0100',
+,b'0011 0100',
+16,b'Con 8 cifre binarie si possono rappresentare numeri decimali compresi tra',Domande sistemi di numerazione
+,b'0 .. 511',
+,b'0 .. 127',
+,b'0 .. 255',
+,b'0 .. 1023',
+17,b'Con 9 cifre binarie si possono rappresentare numeri decimali compresi tra',Domande sistemi di numerazione
+,b'0 .. 127',
+,b'0 .. 511',
+,b'0 .. 1023',
+,b'0 .. 255',
+18,b'Indicare quale tra le seguenti somme di numeri decimali se codificate con una codifica binaria senza segno a 4 bits generano un overflow?',Domande sistemi di numerazione
+,b'8 + 9',
+,b'7 + 8',
+,b'12 + 3',
+,b'9 + 2',
+19,"b""L'espressione booleana (ABC + AB'C)', dove ' indica la negazione, \xc3\xa8 equivalente a""",Domande sistemi di numerazione
+,"b""(A'+B'+C')(A' + B + C')""",
+,"b""(A'B'C')' + (A'BC')'""",
+,"b""(A'+B'+C') + (A' + B + C')""",
+,"b""(A'B'C') + (A'BC)""",
+20,b'Quali dei seguenti numeri binari rappresenta la codifica corretta a 8 bit del numero -19 decimale tramite la codifica con bit di segno',Domande sistemi di numerazione
+,b'1110 1100',
+,b'1110 1101',
+,b'0001 0011',
+,b'1001 0011',
+21,b'Con 5 cifre binarie si possono rappresentare numeri decimali compresi tra',Domande sistemi di numerazione
+,b'0 .. 31',
+,b'0 .. 7',
+,b'0 .. 15',
+,b'0 .. 63',
+22,b'Indicare quale tra le seguenti somme di numeri decimali se codificate con una codifica binaria senza segno a 6 bits genera un overflow?',Domande sistemi di numerazione
+,b'27 + 27',
+,b'nessuna',
+,b'27 + 37',
+,b'42 + 18',
+23,b'Quali dei seguenti numeri binari rappresenta la codifica corretta a 8 bit del numero -19 decimale tramite la codifica con complemento a due',Domande sistemi di numerazione
+,b'1110 1100',
+,b'0001 0011',
+,b'1110 1101',
+,b'1001 0011',
+24,b'La rappresentazione binaria del numero codificato in esadecimale 0x66 \xc3\xa8',Domande sistemi di numerazione
+,b'0011 0101',
+,b'0110 0110',
+,b'0010 0100',
+,b'0010 0010',
+25,b'Indicare quale tra le seguenti somme di numeri decimali se codificate con una codifica binaria senza segno a 4 bits genera un overflow?',Domande sistemi di numerazione
+,b'nessuna',
+,b'12 + 3',
+,b'11 + 4',
+,b'7 + 8',
+26,b'Quali dei seguenti numeri binari rappresenta la codifica corretta a 8 bit del numero -22 decimale tramite la codifica con complemento a due',Domande sistemi di numerazione
+,b'1001 0110',
+,b'0001 0110',
+,b'1110 1010',
+,b'1110 1001',
+27,b'La rappresentazione binaria del numero 52 decimale \xc3\xa8:',Domande sistemi di numerazione
+,b'1100110',
+,b'110100',
+,b'1011110',
+,b'010001',
+28,b'La rappresentazione binaria in complemento a due a 8 bit del numero decimale -12 \xc3\xa8',Domande sistemi di numerazione
+,b'11110110',
+,b'10001010',
+,b'11110100',
+,b'10000110',
+29,b'Con 4 cifre binarie si possono rappresentare numeri decimali compresi tra',Domande sistemi di numerazione
+,b'0 .. 7',
+,b'0 .. 15',
+,b'0 .. 31',
+,b'0 .. 63',
+30,b'Con 10 cifre binarie si possono rappresentare numeri decimali compresi tra',Domande sistemi di numerazione
+,b'0 .. 511',
+,b'0 .. 2047',
+,b'0 .. 4095',
+,b'0 .. 1023',
+31,"b""L' espressione (AB + CA)exor(D) booleana \xc3\xa8 vera se""",Domande sistemi di numerazione
+,b'ABCD = 1001',
+,b'ABCD = 0100',
+,b'ABCD = 0110',
+,b'ABCD = 1000',
+32,b'Con 6 cifre binarie si possono rappresentare numeri decimali compresi tra',Domande sistemi di numerazione
+,b'0 .. 15',
+,b'0 .. 63',
+,b'0 .. 31',
+,b'0 .. 127',
+33,b'Con 7 cifre binarie si possono rappresentare numeri decimali compresi tra',Domande sistemi di numerazione
+,b'0 .. 127',
+,b'0 .. 255',
+,b'0 .. 63',
+,b'0 .. 31',
+34,b'Indicare quale tra le seguenti operazioni algebriche binarie tra numeri senza segno a 4 bits genera un overflow',Domande sistemi di numerazione
+,b'0110 + 0110',
+,b'1110 + 0010',
+,b'1110 + 0001',
+,b'0111 + 0001',
+35,b'La rappresentazione binaria del numero 32 decimale \xc3\xa8:',Domande sistemi di numerazione
+,b'011111',
+,b'1100',
+,b'100000',
+,b'100001',
+36,b'Una barretta di silicio drogato di tipo n',Domande Dispositivi a semiconduttore e processo produttivo
+,b'Ha un alta concentrazione di atomi accettori di elettroni',
+,b'Ha un alta concentrazione di atomi donatori di elettroni',
+,b'Ha una carica spaziale negativa',
+,b'Ha un alta concentrazione di lacune',
+37,"b""Si indichi qual \xc3\xa8 l'ordine corretto dei passi di produzione di dispositivi integrati in logica CMOS planare""",Domande Dispositivi a semiconduttore e processo produttivo
+,"b'Lingotto di silicio, wafer, produzione maschere, processo fotolitografico, taglio dei die'",
+,"b'Lingotto di silicio, wafer, taglio dei die, produzione maschere, processo fotolitografico'",
+,"b'Wafer, lingotto di silicio,  produzione maschere, processo fotolitografico, taglio dei die'",
+,"b'Lingotto di silicio, wafer, taglio dei die, processo fotolitografico, produzione maschere'",
+38,"b'Si consideri la tabella della verit\xc3\xa0 relativa alla funziona booleana Z = g(A,B,C). Dove Z assume il valore logico alto (""1"") le combinazioni di (ABC)  = (011,100). Per tutte le altre combinazioni Z assume il valore logico basso (""0""). Quale delle seguenti espressioni booleane realizza g(A,B,C) ed \xc3\xa8 minima.'",Domande Dispositivi a semiconduttore e processo produttivo
+,b'Z',
+,b'Z',
+,"b""A'B'C' + ABC""",
+,"b""A'B""",
+,"b""B'C'""",
+,b'Z',
+,b'Z',
+,"b""A'BC + AB'C'""",
+39,b'Nel transistore pMOS polarizzato in conduzione il canale conduttivo',Domande Dispositivi a semiconduttore e processo produttivo
+,b'Si crea al sotto il terminale di drain',
+,"b""Si crea al di sotto dell'ossido di gate""",
+,"b""Si crea all'interno del silicio policristallino che realizza il terminale di gate""",
+,b'Si crea al di sotto il terminale di source',
+40,"b""In un inverter CMOS in condizioni statiche l'uscita VOUT \xc3\xa8 pari a VDD se""",Domande Dispositivi a semiconduttore e processo produttivo
+,b'Vin > VDD + VTP',
+,b'Vin < VTN',
+,b'Vin pari a Vout',
+,b'VTN < Vin < VDD + VTP',
+41,"b""Quale delle seguenti espressioni booleane \xc3\xa8 equivalente alla funzione booleana Z = AB + C + D' ?""",Domande Dispositivi a semiconduttore e processo produttivo
+,"b""[(A+B)C'D ]'""",
+,"b""[(AB)+C'+D ]'""",
+,b'Z',
+,"b""[(A+B)C'D' ]'""",
+,b'Z',
+,"b""[(AB)+C'+D']'""",
+,b'Z',
+,b'Z',
+42,b'Una barretta di silicio drogato di tipo n',Domande Dispositivi a semiconduttore e processo produttivo
+,b'Ha una carica spaziale nulla',
+,b'Ha una carica spaziale negativa',
+,b'Ha una carica spaziale positiva',
+,b'Da origine ad un potenziale di built-in',
+43,b'Il transistore pMOS funziona come un circuito chiuso (conduzione) se',Domande Dispositivi a semiconduttore e processo produttivo
+,b'VGS < VTP',
+,b'VDS > VTP',
+,b'VGS > VTP',
+,b'VDS < VTP',
+44,b'La resistenza presente tra contatto di drain e source nel transistore nMOS polarizzato in conduzione \xc3\xa8',Domande Dispositivi a semiconduttore e processo produttivo
+,b'inversamente proporzionale al fattore di forma',
+,b'proporzionale al fattore di forma',
+,b'nulla',
+,b'infinita',
+45,b'Il transistore nMOS funziona come un circuito chiuso (conduzione) se',Domande Dispositivi a semiconduttore e processo produttivo
+,b'VDS < VTN',
+,b'VGS < VTN',
+,b'VDS > VTN',
+,b'VGS > VTN',
+46,b'Il terminale di gate di un transistore pMOS pu\xc3\xb2 essere visto come',Domande Dispositivi a semiconduttore e processo produttivo
+,b'un diodo',
+,b'una resistenza',
+,b'un condensatore',
+,b'un generatore',
+47,b'La resistenza presente tra contatto di drain e source nel transistore pMOS polarizzato in conduzione \xc3\xa8',Domande Dispositivi a semiconduttore e processo produttivo
+,b'nulla',
+,b'infinita',
+,b'proporzionale al fattore di forma',
+,b'inversamente proporzionale al fattore di forma',
+48,"b""In un inverter CMOS in condizioni statiche l'uscita VOUT \xc3\xa8 pari a VDD se""",Domande Dispositivi a semiconduttore e processo produttivo
+,b'il transitor nMOS \xc3\xa8 OFF ed il pMOS \xc3\xa8 ON',
+,b'il transitor nMOS \xc3\xa8 ON ed il pMOS \xc3\xa8 ON',
+,b'il transitor nMOS \xc3\xa8 OFF ed il pMOS \xc3\xa8 OFF',
+,b'il transitor nMOS \xc3\xa8 ON ed il pMOS \xc3\xa8 OFF',
+49,"b'Nella giunzione pn non polarizzata, la regione di silicio drogato di tipo n in prossimit\xc3\xa0 della giunzione \xc3\xa8 composta da:'",Domande Dispositivi a semiconduttore e processo produttivo
+,b'Ioni di atomi di materiale donatore carichi negativamente',
+,b'Ioni di atomi di materiale donatore carichi positivamente',
+,b'Ioni di atomi di materiale accettore carichi negativamente',
+,b'Ioni di atomi di materiale accettore carichi positivamente',
+50,b'Nella giunzione pn circola corrente dal terminale connesso alla regione silicio drogato di tipo p (anodo) al terminale conneso alla regione di silicio drogato di tipo n (catodo):',Domande Dispositivi a semiconduttore e processo produttivo
+,b'se la forza elettromotrice applicata tra anodo e catodo \xc3\xa8 positiva',
+,b'mai',
+,b'se la forza elettromotrice applicata tra anodo e catodo \xc3\xa8 negativa',
+,b'se la forza elettromotrice applicata tra anodo e catodo \xc3\xa8 positiva e superiore al potenziale di built-in',
+51,"b""In un inverter CMOS in condizioni statiche l'uscita VOUT \xc3\xa8 pari a GND (0v) se""",Domande Dispositivi a semiconduttore e processo produttivo
+,b'il transitor nMOS \xc3\xa8 ON ed il pMOS \xc3\xa8 OFF',
+,b'il transitor nMOS \xc3\xa8 ON ed il pMOS \xc3\xa8 ON',
+,b'il transitor nMOS \xc3\xa8 OFF ed il pMOS \xc3\xa8 OFF',
+,b'il transitor nMOS \xc3\xa8 OFF ed il pMOS \xc3\xa8 ON',
+52,b'In un inverter CMOS in condizioni statiche la tensione di uscita (tra VOUT e massa) \xc3\xa8 intermedio tra ]0v VDD[ se',Domande Dispositivi a semiconduttore e processo produttivo
+,b'Vin > VDD + VTP',
+,b'VTN < Vin < VDD + VTP',
+,b'Vin < VTN',
+,b'mai',
+53,b'In un inverter CMOS in condizioni statiche la tensione di uscita (tra VOUT e massa) \xc3\xa8 pari a GND (0v) se',Domande Dispositivi a semiconduttore e processo produttivo
+,b'Vin < VTN',
+,b'Vin pari a Vout',
+,b'VTN < Vin < VDD + VTP',
+,b'Vin > VDD + VTP',
+54,b'Nel transistore pMOS',Domande Dispositivi a semiconduttore e processo produttivo
+,b'Il terminale di source \xc3\xa8  sempre connesso a massa',
+,b'Il terminale di source \xc3\xa8  sempre connesso a Vdd',
+,b'Il terminale di source \xc3\xa8 connesso per convenzione alla tensione pi\xc3\xb9 alta tra i due terminali di drain e source.',
+,b'Il terminale di source \xc3\xa8 connesso per convenzione alla tensione pi\xc3\xb9 bassa tra i due terminali di drain e source.',
+55,b'Il transistore pMOS funziona come un circuito aperto (interdizione) se',Domande Dispositivi a semiconduttore e processo produttivo
+,b'VGS > VTP',
+,b'VDS > VTP',
+,b'VDS < VTP',
+,b'VGS < VTP',
+56,"b'Si consideri la tabella della verit\xc3\xa0 relativa alla funziona booleana Z = g(A,B,C). Dove Z assume il valore logico alto (""1"") le combinazioni di (ABC)  = (000,001,010,011). Per tutte le altre combinazioni Z assume il valore logico basso (""0""). Quale delle seguenti espressioni booleane realizza g(A,B,C) ed \xc3\xa8 minima.'",Domande Dispositivi a semiconduttore e processo produttivo
+,"b""A'B+A'B'""",
+,b'Z',
+,"b""A'B'+A'B""",
+,b'Z',
+,b'A',
+,"b""A'""",
+,b'Z',
+,b'Z',
+57,b'Il terminale di gate di un transistore nMOS pu\xc3\xb2 essere visto come',Domande Dispositivi a semiconduttore e processo produttivo
+,b'un generatore',
+,b'un diodo',
+,b'una resistenza',
+,b'un condensatore',
+58,b'Una barretta di silicio drogato di tipo p',Domande Dispositivi a semiconduttore e processo produttivo
+,b'Ha una carica spaziale positiva',
+,b'Ha un alta concentrazione di atomi accettori di elettroni',
+,b'Ha un alta concentrazione di elettroni liberi',
+,b'Ha un alta concentrazione di atomi donatori di elettroni',
+59,b'Nella giunzione pn non polarizzata la regione di svuotamento di carica \xc3\xa8 composta da:',Domande Dispositivi a semiconduttore e processo produttivo
+,b'Da ioni di atomi donatori nel silicio drogato di tipo p carichi negativamente e da ioni di atomi accettori nel silicio drogato di tipo n carichi positivamente',
+,b'Da ioni di atomi accettori nel silicio drogato di tipo p carichi negativamente e da ioni di atomi donatori nel silicio drogato di tipo n carichi positivamente',
+,b'Da ioni di atomi donatori nel silicio drogato di tipo p carichi positivamente e da atomi accettori nel silicio drogato di tipo n carichi negativamente',
+,b'Da ioni di atomi accettori nel silicio drogato di tipo p carichi positivamente e da ioni di atomi donatori nel silicio drogato di tipo n carichi negativamente',
+60,"b""Il transistor pMOS all'interno dell'inverter CMOS in condizioni statiche \xc3\xa8 sempre interndetto (OFF) se""",Domande Dispositivi a semiconduttore e processo produttivo
+,b'Vin maggiore uguale a VTN',
+,b'Vin minore uguale a VDD + VTP',
+,b'Vin > VDD + VTP',
+,b'Vin < VTN',
+61,"b'Nel transistore pMOS polarizzato ""in conduzione"" il canale conduttivo \xc3\xa8 costituito da:'",Domande Dispositivi a semiconduttore e processo produttivo
+,b'Ioni di atomi di materiale donatore carichi negativamente',
+,b'Ioni di atomi di materiale accettore carichi positivamente',
+,b'elettroni',
+,b'lacune',
+62,"b'Si consideri la tabella della verit\xc3\xa0 relativa alla funziona booleana Z = g(A,B,C). Dove Z assume il valore logico alto (""1"") le combinazioni di (ABC)  = (000,001,100,101). Per tutte le altre combinazioni Z assume il valore logico basso (""0""). Quale delle seguenti espressioni booleane realizza g(A,B,C) ed \xc3\xa8 minima.'",Domande Dispositivi a semiconduttore e processo produttivo
+,b'Z',
+,b'Z',
+,b'Z',
+,"b""A'""",
+,"b""B'""",
+,"b""B'A+B'A'""",
+,b'Z',
+,"b""A'B'C' + A'B'C + AB'C' + AB'C""",
+63,b'Nel transistore pMOS il drain ed il source sono realizzati',Domande Dispositivi a semiconduttore e processo produttivo
+,b'entrambi con silicio drogato di tipo p',
+,b'il drain con silicio drogato di tipo p ed il source con silicio drogato di tipo n',
+,b'il drain con silicio drogato di tipo n ed il source con silicio drogato di tipo p',
+,b'entrambi con silicio drogato di tipo n',
+64,"b""In un inverter CMOS con ingresso VIN pari a Vdd volt, l'uscita VOUT vale""",Domande Dispositivi a semiconduttore e processo produttivo
+,b'Vdd volts',
+,b'0 volts',
+,b'-Vdd  volts',
+,b'Vdd/2 volts',
+65,b'Il silicio cristallino \xc3\xa8 un materiale semiconduttore in quanto',Domande Dispositivi a semiconduttore e processo produttivo
+,b'Si comporta come un buon dielettrico',
+,"b'Se drogato di tipo n \xc3\xa8 un buon conduttore, se drogato di tipo p \xc3\xa8 un buon dielettrico'",
+,b'varia le sue caratteristiche elettriche in base alle impurit\xc3\xa0 presenti nel cristallo',
+,b'Si comporta come un buon conduttore',
+66,"b""Quale delle seguenti espressioni booleane \xc3\xa8 equivalente alla funzione booleana Z = (A(B + C)) + D' ?""",Domande Dispositivi a semiconduttore e processo produttivo
+,"b""[A'+B'C'D]'""",
+,b'Z',
+,b'Z',
+,"b""[(A'+B'C')D]'""",
+,"b""[A'+B'C'D']'""",
+,b'Z',
+,b'Z',
+,"b""[(A'(B'+C'))+D]'""",
+67,"b'Nella giunzione pn non polarizzata, la regione di silicio drogato di tipo p in prossimit\xc3\xa0 della giunzione \xc3\xa8 composta da:'",Domande Dispositivi a semiconduttore e processo produttivo
+,b'Ioni di atomi di materiale accettore carichi negativamente',
+,b'Ioni di atomi di materiale donatore carichi negativamente',
+,b'Ioni di atomi di materiale accettore carichi positivamente',
+,b'Ioni di atomi di materiale donatore carichi positivamente',
+68,b'Nel transistore nMOS le regioni di drain e source sono realizzate',Domande Dispositivi a semiconduttore e processo produttivo
+,b'il drain con silicio drogato di tipo n ed il source con silicio drogato di tipo p',
+,b'entrambe con silicio drogato di tipo p',
+,b'entrambe con silicio drogato di tipo n',
+,b'il drain con silicio drogato di tipo p ed il source con silicio drogato di tipo n',
+69,"b""Il transistor nMOS all'interno dell'inverter CMOS in condizioni statiche \xc3\xa8 sempre interndetto (OFF) se""",Domande Dispositivi a semiconduttore e processo produttivo
+,b'Vin < VTN',
+,b'Vin > VDD + VTP',
+,b'Vin minore uguale a VDD + VTP',
+,b'Vin maggiore uguale a VTN',
+70,b'Si indichi qual \xc3\xa8 il ruolo delle maschere nel processo di produzione CMOS planare',Domande Dispositivi a semiconduttore e processo produttivo
+,b'Le maschere servono per guidare il taglio dei die',
+,b'Le maschere vengono usate per impressionare forme sul materiale fotoresistente precedentemente deposto sulla superficie del wafer',
+,b'Le maschere vengono usate solo nei primi passi del processo per separare i wafer dal lingotto di silicio.',
+,b'nessuna delle risposte precedenti',
+71,"b'Nel transistore nMOS polarizzato ""in conduzione"" il canale conduttivo \xc3\xa8 costituito da:'",Domande Dispositivi a semiconduttore e processo produttivo
+,b'Ioni di atomi di materiale donatore carichi negativamente',
+,b'un accumulo di elettroni',
+,b'Ioni di atomi di materiale accettore carichi positivamente',
+,b'un accumulo di lacune',
+72,b'In un inverter CMOS la rete di pull down \xc3\xa8 composta',Domande Dispositivi a semiconduttore e processo produttivo
+,b'da una generatore',
+,b'da un diodo',
+,b'da un transistor pMOS',
+,b'da un transistor nMOS',
+73,b'Nel transistore nMOS polarizzato in conduzione il canale conduttivo',Domande Dispositivi a semiconduttore e processo produttivo
+,"b""Si crea al di sotto dell'ossido di gate""",
+,"b""Si crea all'interno del silicio policristallino che realizza il terminale di gate""",
+,b'Si crea al di sotto il terminale di source',
+,b'Si crea al sotto il terminale di drain',
+74,b'Il transistore nMOS funziona come un circuito aperto (interdizione) se',Domande Dispositivi a semiconduttore e processo produttivo
+,b'VGS > VTN',
+,b'VDS > VTN',
+,b'VGS < VTN',
+,b'VDS < VTN',
+75,b'Nel transistore nMOS',Domande Dispositivi a semiconduttore e processo produttivo
+,b'Il terminale di source \xc3\xa8 connesso per convenzione alla tensione pi\xc3\xb9 alta tra i due terminali di drain e source.',
+,b'Il terminale di source \xc3\xa8  sempre connesso a Vdd',
+,b'Il terminale di source \xc3\xa8  sempre connesso a massa',
+,b'Il terminale di source \xc3\xa8 connesso per convenzione alla tensione pi\xc3\xb9 bassa tra i due terminali di drain e source.',
+76,b'Una barretta di silicio drogato di tipo p',Domande Dispositivi a semiconduttore e processo produttivo
+,b'Ha una carica spaziale positiva',
+,b'Ha una carica spaziale nulla',
+,b'Da origine ad un potenziale di built-in',
+,b'Ha una carica spaziale negativa',
+77,"b'Si consideri la tabella della verit\xc3\xa0 relativa alla funziona booleana Z = g(A,B,C). Dove Z assume il valore logico alto (""1"") le combinazioni di (ABC)  = (010,110). Per tutte le altre combinazioni Z assume il valore logico basso (""0""). Quale delle seguenti espressioni booleane realizza g(A,B,C) ed \xc3\xa8 minima.'",Domande Dispositivi a semiconduttore e processo produttivo
+,b'Z',
+,"b""B'C""",
+,b'Z',
+,"b""A'BC' + ABC' + A'A""",
+,b'Z',
+,"b""A'BC' + ABC'""",
+,b'Z',
+,"b""BC'""",
+78,"b'Si consideri la tabella della verit\xc3\xa0 relativa alla funziona booleana Z = g(A,B,C). Dove Z assume il valore logico alto (""1"") le combinazioni di (ABC)  = (101,110). Per tutte le altre combinazioni Z assume il valore logico basso (""0""). Quale delle seguenti espressioni booleane realizza g(A,B,C) ed \xc3\xa8 minima.'",Domande Dispositivi a semiconduttore e processo produttivo
+,b'A',
+,"b""A'B""",
+,b'Z',
+,b'Z',
+,"b""AC'""",
+,b'Z',
+,"b""ABC' + AB'C""",
+,b'Z',
+79,b'In un inverter CMOS in condizioni statiche la tensione di uscita (tra VOUT e massa) \xc3\xa8 ad un livello di tensione intermedio tra ]0v VDD[ (estremi esclusi) se',Domande Dispositivi a semiconduttore e processo produttivo
+,b'il transitor nMOS \xc3\xa8 OFF ed il pMOS \xc3\xa8 ON',
+,b'il transitor nMOS \xc3\xa8 OFF ed il pMOS \xc3\xa8 OFF',
+,b'il transitor nMOS \xc3\xa8 ON ed il pMOS \xc3\xa8 ON',
+,b'il transitor nMOS \xc3\xa8 ON ed il pMOS \xc3\xa8 OFF',
+80,b'In un inverter CMOS la rete di pull up \xc3\xa8 composta',Domande Dispositivi a semiconduttore e processo produttivo
+,b'da una generatore',
+,b'da un diodo',
+,b'da un transistor pMOS',
+,b'da un transistor nMOS',
+81,"b""In un inverter CMOS con ingresso VIN pari a 0 volts, l'uscita VOUT vale""",Domande Dispositivi a semiconduttore e processo produttivo
+,b'-Vdd  volts',
+,b'0 volts',
+,b'Vdd/2 volts',
+,b'Vdd volts',
+82,"b'Con il termine ""Fan-In"" si indica:'",Domande costo e processo
+,b'Il numero di uscite di una porta logica',
+,b'Il numero di ingressi di una porta logica',
+,b'Il numero di porte logiche connesse agli ingressi della porta logica',
+,"b""Il numero di porte logiche connesse all'uscita della porta logica""",
+83,"b""Si consideri un circuito composto da 5 inverter, ciascuno con tempo di propagazione di 10ns, connessi in cascata e con l'uscita dell'ultimo inverter connessa in ingresso al primo inverter. L'uscita del circuito:""",Domande costo e processo
+,b'Oscilla tra i valori logici 0 e 1 con periodo pari a  100ns',
+,"b""Si porta ad un valore logico costante che corrisponde all'ultimo valore applicato all'ingresso.""",
+,b'Si porta ad un valore logico costante pari a 0',
+,b'Si porta ad un valore logico costante pari a 1',
+84,b'Il tempo di propagazione di una porta logica',Domande costo e processo
+,b'dipende solo dalla capacit\xc3\xa0 di carico',
+,b'non dipende dalla capacit\xc3\xa0 di carico',
+,"b""non dipende dall'area dei transistor che compongono la porta logica""",
+,"b""cala al crescere dell'area dei transistor che compongono la porta logica""",
+85,"b'Con ""tempo di discesa"" di una porta logica si intende'",Domande costo e processo
+,b'il tempo medio necessario perch\xc3\xa9 una transizione in ingresso si propaghi in uscita',
+,b'nessuna delle risposte precedenti',
+,b'il tempo che impiega il segnale in uscita per andare da basso a alto',
+,b'il tempo che impiega il segnale in uscita per andare da alto a basso',
+86,"b""Con l'aumentare del fan-out di una porta logica""",Domande costo e processo
+,b'nessuna delle risposte precedenti',
+,b'Diminuisce il tempo di propagazione della porta logica',
+,b'Aumenta il numero di ingressi della porta logica',
+,b'Aumenta il tempo di propagazione della porta logica',
+87,"b""A seguito di una commutazione dell'ingresso di un inverter FCMOS da 0 a 1 la capacit\xc3\xa0 di carico""",Domande costo e processo
+,b'Si carica tramite la rete di pull up',
+,b'Si scarica tramite la rete di pull down',
+,b'Si carica tramite la rete di pull down',
+,b'Si scarica tramite la rete di pull up',
+88,"b""Si consideri un circuito composto da 6 inverter, ciascuno con tempo di propagazione di 10ns, connessi in cascata e con l'uscita dell'ultimo inverter connessa in ingresso al primo inverter. L'uscita del circuito:""",Domande costo e processo
+,b'Si porta ad un valore logico costante pari a 1',
+,b'Oscilla tra i valori logici 0 e 1 con periodo pari a  120ns',
+,"b""Si porta ad un valore logico costante che corrisponde all'ultimo valore applicato all'ingresso.""",
+,b'Si porta ad un valore logico costante pari a 0',
+89,"b'Con ""Tempo di propagazione"" di una porta logica si intende'",Domande costo e processo
+,b'il tempo medio necessario perch\xc3\xa9 una transizione in ingresso si propaghi in uscita',
+,b'nessuna delle risposte precedenti',
+,b'il tempo che impiega il segnale in uscita per andare da basso a alto',
+,b'il tempo che impiega il segnale in uscita per andare da alto a basso',
+90,"b""Si consideri un circuito composto da 8 inverter, ciascuno con tempo di propagazione di 10ns, connessi in cascata e con l'uscita dell'ultimo inverter connessa in ingresso al primo inverter. L'uscita del circuito:""",Domande costo e processo
+,b'Si porta ad un valore logico costante pari a 0',
+,b'Si porta ad un valore logico costante pari a 1',
+,"b""Si porta ad un valore logico costante che corrisponde all'ultimo valore applicato all'ingresso.""",
+,b'Oscilla tra i valori logici 0 e 1 con periodo pari a  160ns',
+91,"b""Si consideri un circuito composto da 7 inverter, ciascuno con tempo di propagazione di 10ns, connessi in cascata e con l'uscita dell'ultimo inverter connessa in ingresso al primo inverter. L'uscita del circuito:""",Domande costo e processo
+,"b""Si porta ad un valore logico costante che corrisponde all'ultimo valore applicato all'ingresso.""",
+,b'Oscilla tra i valori logici 0 e 1 con periodo pari a  140ns',
+,b'Si porta ad un valore logico costante pari a 1',
+,b'Si porta ad un valore logico costante pari a 0',
+92,"b'Con ""Tempo di salita"" di una porta logica si intende'",Domande costo e processo
+,b'il tempo medio necessario perch\xc3\xa9 una transizione in ingresso si propaghi in uscita',
+,b'il tempo che impiega il segnale in uscita per andare da basso a alto',
+,b'nessuna delle risposte precedenti',
+,b'il tempo che impiega il segnale in uscita per andare da alto a basso',
+93,"b'Con il termine ""Fan-Out"" si indica:'",Domande costo e processo
+,b'Il numero di uscite di una porta logica',
+,b'Il numero di ingressi di una porta logica',
+,"b""Il numero di porte logiche connesse all'uscita della porta logica""",
+,b'Il numero di porte logiche connesse agli ingressi della porta logica',
+94,"b""A seguito di una commutazione dell'ingresso di un inverter FCMOS da 1 a 0 la capacit\xc3\xa0 di carico""",Domande costo e processo
+,b'Si scarica tramite la rete di pull down',
+,b'Si scarica tramite la rete di pull up',
+,b'Si carica tramite la rete di pull up',
+,b'Si carica tramite la rete di pull down',
+95,"b'Si consideri la tabella della verit\xc3\xa0 relativa alla funziona booleana Z = g(A,B,C). Dove Z assume il valore logico alto (""1"") le combinazioni di (ABC)  = (010,110). Per tutte le altre combinazioni Z assume il valore logico basso (""0""). Quale delle seguenti espressioni booleane realizza g(A,B,C) ed \xc3\xa8 minima.'",Domande Logica Combinatoria
+,"b""A'BC' + ABC'""",
+,"b""B'C""",
+,"b""A'BC' + ABC' + A'A""",
+,"b""BC'""",
+96,"b""Quale delle seguenti espressioni booleane \xc3\xa8 equivalente alla funzione booleana Z = AB + C + D' ?""",Domande Logica Combinatoria
+,"b""[(A+B)C'D' ]'""",
+,"b""[(AB)+C'+D ]'""",
+,"b""[(A+B)C'D ]'""",
+,"b""[(AB)+C'+D']'""",
+97,"b'Si consideri la tabella della verit\xc3\xa0 relativa alla funziona booleana Z = g(A,B,C). Dove Z assume il valore logico alto (""1"") le combinazioni di (ABC)  = (000,001,010,011). Per tutte le altre combinazioni Z assume il valore logico basso (""0""). Quale delle seguenti espressioni booleane realizza g(A,B,C) ed \xc3\xa8 minima.'",Domande Logica Combinatoria
+,"b""A'""",
+,"b""A'B+A'B'""",
+,b'A',
+,"b""A'B'+A'B""",
+98,"b'Si consideri la tabella della verit\xc3\xa0 relativa alla funziona booleana Z = g(A,B,C). Dove Z assume il valore logico alto (""1"") le combinazioni di (ABC)  = (011,100). Per tutte le altre combinazioni Z assume il valore logico basso (""0""). Quale delle seguenti espressioni booleane realizza g(A,B,C) ed \xc3\xa8 minima.'",Domande Logica Combinatoria
+,"b""A'B'C' + ABC""",
+,"b""B'C'""",
+,"b""A'BC + AB'C'""",
+,"b""A'B""",
+99,"b""Quale delle seguenti espressioni booleane \xc3\xa8 equivalente alla funzione booleana Z = (A(B + C)) + D' ?""",Domande Logica Combinatoria
+,"b""[(A'+B'C')D]'""",
+,"b""[A'+B'C'D]'""",
+,"b""[(A'(B'+C'))+D]'""",
+,"b""[A'+B'C'D']'""",
+100,"b'Si consideri la tabella della verit\xc3\xa0 relativa alla funziona booleana Z = g(A,B,C). Dove Z assume il valore logico alto (""1"") le combinazioni di (ABC)  = (101,110). Per tutte le altre combinazioni Z assume il valore logico basso (""0""). Quale delle seguenti espressioni booleane realizza g(A,B,C) ed \xc3\xa8 minima.'",Domande Logica Combinatoria
+,"b""ABC' + AB'C""",
+,b'A',
+,"b""AC'""",
+,"b""A'B""",
+101,"b'Si consideri la tabella della verit\xc3\xa0 relativa alla funziona booleana Z = g(A,B,C). Dove Z assume il valore logico alto (""1"") le combinazioni di (ABC)  = (000,001,100,101). Per tutte le altre combinazioni Z assume il valore logico basso (""0""). Quale delle seguenti espressioni booleane realizza g(A,B,C) ed \xc3\xa8 minima.'",Domande Logica Combinatoria
+,"b""A'B'C' + A'B'C + AB'C' + AB'C""",
+,"b""B'""",
+,"b""B'A+B'A'""",
+,"b""A'""",
+102,b'3 transistori connessi in parallelo si comportano',Domande Porte Logiche CMOS
+,b'come un transistore equivalente tre volte pi\xc3\xb9 conduttivo',
+,b'come un transistore equivalente tre volte pi\xc3\xb9 resistivo',
+,b'come tre transistori in serie',
+,b'nessuna delle precedenti',
+103,"b""Se un terminale di un transistor nMOS con gate connesso a Vdd \xc3\xa8 connesso a 0v, l'altro terminale si porta alla tensione""",Domande Porte Logiche CMOS
+,b'0 [v]',
+,b'Vdd-Vtn [v]',
+,b'Vtn [v]',
+,b'Vdd [v]',
+104,b'Nella logica fully complementary MOS la rete di pull-up ha lo scopo di',Domande Porte Logiche CMOS
+,"b""trasferire il valore logico basso sull'uscita""",
+,"b""creare un cammino conduttivo tra massa e l'uscita.""",
+,"b""trasferire il valore logico alto sull'uscita""",
+,b'creare un cammino conduttivo tra massa e Vdd',
+105,b'Il sourse di un transistor pMOS con gate connesso a 0v e drain connesso a 0v si porta alla tensione',Domande Porte Logiche CMOS
+,b'- Vtp [v]',
+,b'Vdd+Vtp [v]',
+,b'0 [v]',
+,b'Vdd [v]',
+106,b'Quale delle seguenti affermazioni \xc3\xa8 falsa per la logica FCMOS',Domande Porte Logiche CMOS
+,b'La rete di pull-down \xc3\xa8 composta da pMOS',
+,"b'La rete di pull-down serve a trasferire uno ""0"" sull\'uscita'",
+,b'La rete di pull-down \xc3\xa8 complementare a quella di pull-up',
+,b'La rete di pull-down \xc3\xa8 composta da nMOS',
+107,"b""Se un terminale di un transistor pMOS con gate connesso a 0v \xc3\xa8 connesso a 0v, l'altro terminale si porta alla tensione""",Domande Porte Logiche CMOS
+,b'0 [v]',
+,b'- Vtp [v]',
+,b'Vdd+Vtp [v]',
+,b'Vdd [v]',
+108,b'Il drain di un transistor nMOS con gate connesso a Vdd e source connesso a 0v si porta alla tensione',Domande Porte Logiche CMOS
+,b'Vdd-Vtn [v]',
+,b'Vtn [v]',
+,b'Vdd [v]',
+,b'0 [v]',
+109,b'4 transistori connessi in serie si comportano',Domande Porte Logiche CMOS
+,b'come quattro transistori in parallelo',
+,b'come un transistore equivalente quattro volte pi\xc3\xb9 resistivo',
+,b'come un transistore equivalente quattro volte pi\xc3\xb9 conduttivo',
+,b'nessuna delle precedenti',
+110,b'Quale delle seguenti affermazioni \xc3\xa8 falsa per la logica FCMOS',Domande Porte Logiche CMOS
+,"b'La rete di pull-up serve a trasferire un ""1"" sull\'uscita'",
+,b'La rete di pull-up \xc3\xa8 complementare a quella di pull-down',
+,b'La rete di pull-up \xc3\xa8 composta da pMOS',
+,b'La rete di pull-up \xc3\xa8 composta da nMOS',
+111,b'Il drain di un transistor pMOS con gate connesso a 0v e source connesso a Vdd si porta alla tensione',Domande Porte Logiche CMOS
+,b'Vdd [v]',
+,b'- Vtp [v]',
+,b'Vdd+Vtp [v]',
+,b'0 [v]',
+112,"b""Se un terminale di un transistor pMOS con gate connesso a 0v \xc3\xa8 connesso a Vdd [v], l'altro terminale si porta alla tensione""",Domande Porte Logiche CMOS
+,b'Vdd+Vtp [v]',
+,b'Vdd [v]',
+,b'0 [v]',
+,b'- Vtp [v]',
+113,"b""Se un terminale di un transistor nMOS con gate connesso a Vdd \xc3\xa8 connesso a Vdd [v], l'altro terminale si porta alla tensione""",Domande Porte Logiche CMOS
+,b'0 [v]',
+,b'Vdd [v]',
+,b'Vtn [v]',
+,b'Vdd-Vtn [v]',
+114,b'Il source di un transistor nMOS con gate connesso a Vdd e drain connesso a Vdd si porta alla tensione',Domande Porte Logiche CMOS
+,b'Vdd [v]',
+,b'0 [v]',
+,b'Vtn [v]',
+,b'Vdd-Vtn [v]',
+115,b'Nella logica fully complementary MOS la rete di pull-down ha lo scopo di',Domande Porte Logiche CMOS
+,b'creare un cammino conduttivo tra massa e Vdd',
+,"b""trasferire il valore logico alto sull'uscita""",
+,"b""creare un cammino conduttivo tra Vdd e l'uscita.""",
+,"b""trasferire il valore logico basso sull'uscita""",
+116,b'5 transistori connessi in parallelo si comportano',Domande Porte Logiche CMOS
+,b'come cinque transistori in serie',
+,b'come un transistore equivalente cinque volte pi\xc3\xb9 conduttivo',
+,b'nessuna delle precedenti',
+,b'come un transistore equivalente cinque volte pi\xc3\xb9 resistivo',
+117,"b""In un Flip-Flop di tipo D se l'ingresso di Dato \xc3\xa8 basso (D pari a 0) e l'ingresso Clock \xc3\xa8 alto (CLK pari a 1) l'uscita Q""",Domande Logica Sequenziale
+,b'\xc3\xa8 non definita',
+,b'mantiene il valore logico che aveva assunto in precendenza (Q pari a Qprev).',
+,b'\xc3\xa8 alta',
+,b'\xc3\xa8 bassa',
+118,"b""In un Flip-Flop di tipo D se l'ingresso di Dato \xc3\xa8 basso (D pari a 0) e l'ingresso Clock \xc3\xa8 alto (CLK pari a 0) l'uscita Q""",Domande Logica Sequenziale
+,b'\xc3\xa8 bassa',
+,b'\xc3\xa8 alta',
+,b'mantiene il valore logico che aveva assunto in precendenza (Q pari a Qprev).',
+,b'\xc3\xa8 non definita',
+119,b'Si consideri un circuito composto da due stadi di registri con interposto un blocco di logica combinatoria tale per cui le uscite del primo registro sono gli ingressi della logica combinatoria e le uscite della logica combinatoria sono gli ingressi di dato del secondo registro. Entrambi i registri sono connessi allo stesso segnale di clock (CLK). Il vincolo sul tempo di setup dei registri vincola:',Domande Logica Sequenziale
+,b'nessuna delle risposte precedenti',
+,b'il ritardo di caso migliore della logica combinatoria',
+,b'la minima frequenza del segnale di clock a cui pu\xc3\xb2 essere operato correttamente il circuito.',
+,b'la massima frequenza del segnale di clock a cui pu\xc3\xb2 essere operato correttamente il circuito.',
+120,b'Nelle macchine a stati la Tabella di codifica delle uscite (Output Encoding Table) identifica:',Domande Logica Sequenziale
+,b'la rappresentazione binaria dei diversi stati.',
+,b'la rappresentazione binaria delle diverse uscite.',
+,"b'la relazione tra stato precedente, stato futuro ed ingressi.'",
+,b'la rappresentazione binaria degli ingressi.',
+121,"b""In un latch D se l'ingresso di Dato \xc3\xa8 alto (D pari a 1) e l'ingresso Clock \xc3\xa8 alto (CLK pari a 1) l'uscita Q""",Domande Logica Sequenziale
+,b'\xc3\xa8 bassa',
+,b'\xc3\xa8 alta',
+,b'\xc3\xa8 non definita',
+,b'mantiene il valore logico che aveva assunto in precendenza (Q pari a Qprev).',
+122,"b""In un latch SR se l'ingresso di Set \xc3\xa8 bassa (S pari a 0) e l'ingresso Reset \xc3\xa8 alto (R pari a 1) l'uscita Q""",Domande Logica Sequenziale
+,b'\xc3\xa8 bassa',
+,b'\xc3\xa8 non definita',
+,b'mantiene il valore logico che aveva assunto in precendenza (Q pari a Qprev).',
+,b'\xc3\xa8 alta',
+123,"b""In un latch D se l'ingresso di Dato \xc3\xa8 basso (D pari a 0) e l'ingresso Clock \xc3\xa8 alto (CLK pari a 1) l'uscita Q""",Domande Logica Sequenziale
+,b'\xc3\xa8 alta',
+,b'\xc3\xa8 non definita',
+,b'\xc3\xa8 bassa',
+,b'mantiene il valore logico che aveva assunto in precendenza (Q pari a Qprev).',
+124,"b""In un latch SR se l'ingresso di Set \xc3\xa8 alto (S pari a 1) e l'ingresso Reset \xc3\xa8 bassa (R pari a 0) l'uscita Q""",Domande Logica Sequenziale
+,b'\xc3\xa8 non definita',
+,b'mantiene il valore logico che aveva assunto in precedenza (Q pari a Qprev).',
+,b'\xc3\xa8 bassa',
+,b'\xc3\xa8 alta',
+125,b'Con il termine di tempo di setup di un flip-flop si indica:',Domande Logica Sequenziale
+,"b""il tempo che impiega l'ingresso di dato (D) a propagarsi sull'uscita (Q) fino all'ottenimento di un valore stabile a seguito di un fronte di salita del segnale di clock (CLK).""",
+,"b""l'intervallo di tempo minimo per il quale l'ingresso di dato (D) deve essere stabile dopo il fronte di salita del segnale di clock successivo (CLK) affinch\xc3\xa9 il dato (D) sia memorizzato correttamente.""",
+,"b""il tempo che intercorre tra il fronte di salita del segnale di clock (CLK) a quando l'uscita (Q) inizia a cambiare il suo valore prima di stabilizzarsi.""",
+,"b""l'intervallo di tempo minimo per il quale l'ingresso di dato (D) deve essere stabile prima del fronte di salita del segnale di clock successivo (CLK) affinch\xc3\xa9 il dato (D) sia memorizzato correttamente.""",
+126,b'Con il termine di tempo di propagazione di un flip-flop si indica:',Domande Logica Sequenziale
+,"b""l'intervallo di tempo minimo per il quale l'ingresso di dato (D) deve essere stabile dopo il fronte di salita del segnale di clock successivo (CLK) affinch\xc3\xa9 il dato (D) sia memorizzato correttamente.""",
+,"b""il tempo che intercorre tra il fronte di salita del segnale di clock (CLK) a quando l'uscita (Q) inizia a cambiare il suo valore prima di stabilizzarsi.""",
+,"b""l'intervallo di tempo minimo per il quale l'ingresso di dato (D) deve essere stabile prima del fronte di salita del segnale di clock successivo (CLK) affinch\xc3\xa9 il dato (D) sia memorizzato correttamente.""",
+,"b""il tempo che impiega l'ingresso di dato (D) a propagarsi sull'uscita (Q) fino all'ottenimento di un valore stabile a seguito di un fronte di salita del segnale di clock (CLK).""",
+127,"b""In un latch SR se l'ingresso di Set \xc3\xa8 basso (S pari a 0) e l'ingresso Reset \xc3\xa8 bassa (R pari a 0) l'uscita Q""",Domande Logica Sequenziale
+,b'\xc3\xa8 non definita',
+,b'\xc3\xa8 alta',
+,b'mantiene il valore logico che aveva assunto in precendenza (Q pari a Qprev).',
+,b'\xc3\xa8 bassa',
+128,"b""In un latch SR se l'ingresso di Set \xc3\xa8 alto (S pari a 1) e l'ingresso Reset \xc3\xa8 alto (R pari a 1) l'uscita Q""",Domande Logica Sequenziale
+,b'mantiene il valore logico che aveva assunto in precendenza (Q pari a Qprev).',
+,b'\xc3\xa8 non definita',
+,b'\xc3\xa8 bassa',
+,b'\xc3\xa8 alta',
+129,b'Con il termine di tempo di contaminazione di un flip-flop si indica:',Domande Logica Sequenziale
+,"b""l'intervallo di tempo minimo per il quale l'ingresso di dato (D) deve essere stabile prima del fronte di salita del segnale di clock successivo (CLK) affinch\xc3\xa9 il dato (D) sia memorizzato correttamente.""",
+,"b""il tempo che impiega l'ingresso di dato (D) a propagarsi sull'uscita (Q) fino all'ottenimento di un valore stabile a seguito di un fronte di salita del segnale di clock (CLK).""",
+,"b""il tempo che intercorre tra il fronte di salita del segnale di clock (CLK) a quando l'uscita (Q) inizia a cambiare il suo valore prima di stabilizzarsi.""",
+,"b""l'intervallo di tempo minimo per il quale l'ingresso di dato (D) deve essere stabile dopo il fronte di salita del segnale di clock successivo (CLK) affinch\xc3\xa9 il dato (D) sia memorizzato correttamente.""",
+130,b'Si consideri un circuito composto da due stadi di registri con interposto un blocco di logica combinatoria tale per cui le uscite del primo registro sono gli ingressi della logica combinatoria e le uscite della logica combinatoria sono gli ingressi di dato del secondo registro. Entrambi i registri sono connessi allo stesso segnale di clock (CLK). Il vincolo sul tempo di hold dei registri vincola:',Domande Logica Sequenziale
+,b'la massima frequenza del segnale di clock a cui pu\xc3\xb2 essere operato correttamente il circuito.',
+,b'il ritardo di caso migliore della logica combinatoria',
+,b'la minima frequenza del segnale di clock a cui pu\xc3\xb2 essere operato correttamente il circuito.',
+,b'nessuna delle risposte precedenti',
+131,"b""Un Latch di tipo D \xc3\xa8 trasparente, ovvero propaga il valore logico presente sull'ingresso dato (D) in uscita se:""",Domande Logica Sequenziale
+,"b""l'ingresso di clock (CLK) commuta dal valore logico alto al valore logico basso (fronte di discesa).""",
+,"b""l'ingresso di clock (CLK) \xc3\xa8 stabile ad un valore logico alto.""",
+,"b""l'ingresso di clock (CLK) commuta dal valore logico basso al valore logico alto (fronte di salita).""",
+,"b""l'ingresso di clock (CLK) \xc3\xa8 stabile ad un valore logico basso.""",
+132,"b""In un latch D se l'ingresso di Dato \xc3\xa8 basso (D pari a 0) e l'ingresso Clock \xc3\xa8 basso (CLK pari a 0) l'uscita Q""",Domande Logica Sequenziale
+,b'\xc3\xa8 bassa',
+,b'\xc3\xa8 non definita',
+,b'\xc3\xa8 alta',
+,b'mantiene il valore logico che aveva assunto in precendenza (Q pari a Qprev).',
+133,b'Con il termine di tempo di hold di un flip-flop si indica:',Domande Logica Sequenziale
+,"b""l'intervallo di tempo minimo per il quale l'ingresso di dato (D) deve essere stabile prima del fronte di salita del segnale di clock successivo (CLK) affinch\xc3\xa9 il dato (D) sia memorizzato correttamente.""",
+,"b""l'intervallo di tempo minimo per il quale l'ingresso di dato (D) deve essere stabile dopo il fronte di salita del segnale di clock successivo (CLK) affinch\xc3\xa9 il dato (D) sia memorizzato correttamente.""",
+,"b""il tempo che intercorre tra il fronte di salita del segnale di clock (CLK) a quando l'uscita (Q) inizia a cambiare il suo valore prima di stabilizzarsi.""",
+,"b""il tempo che impiega l'ingresso di dato (D) a propagarsi sull'uscita (Q) fino all'ottenimento di un valore stabile a seguito di un fronte di salita del segnale di clock (CLK).""",
+134,"b""Un Flip-Flop di tipo D \xc3\xa8 trasparente, ovvero propaga il valore logico presente sull'ingresso dato (D) in uscita se:""",Domande Logica Sequenziale
+,"b""l'ingresso di clock (CLK) commuta dal valore logico basso al valore logico alto (fronte di salita).""",
+,"b""l'ingresso di clock (CLK) \xc3\xa8 stabile ad un valore logico basso.""",
+,"b""l'ingresso di clock (CLK) \xc3\xa8 stabile ad un valore logico alto.""",
+,"b""l'ingresso di clock (CLK) commuta dal valore logico alto al valore logico basso (fronte di discesa).""",
+135,"b""In un latch D se l'ingresso di Dato \xc3\xa8 alto (D pari a 1) e l'ingresso Clock \xc3\xa8 basso (CLK pari a 0) l'uscita Q""",Domande Logica Sequenziale
+,b'\xc3\xa8 bassa',
+,b'\xc3\xa8 non definita',
+,b'\xc3\xa8 alta',
+,b'mantiene il valore logico che aveva assunto in precendenza (Q pari a Qprev).',
+136,b'Nelle macchine a stati la tabella delle uscite (Output Table identifica:',Domande Logica Sequenziale
+,"b'la relazione tra stato precedente, stato futuro ed ingressi.'",
+,b'la rappresentazione binaria degli ingressi.',
+,b'la relazione tra stato corrente e uscite.',
+,b'la rappresentazione binaria dei diversi stati.',
+137,b'Nelle macchine a stati la Tabella delle transizioni di stati (State transition table) identifica:',Domande Logica Sequenziale
+,b'la rappresentazione binaria delle diverse uscite.',
+,b'la rappresentazione binaria degli ingressi.',
+,"b'la relazione tra stato precedente, stato futuro ed ingressi.'",
+,b'la rappresentazione binaria dei diversi stati.',
+138,b'Una memoria composta da 30 bits di indirizzamento e parole da 8 bits ha dimensione pari a',Domande Blocchi costitutivi CMOS
+,b'1GBytes',
+,b'8GBytes',
+,b'64Kbits',
+,b'64KBytes',
+139,b'Un sottrattore a n-bits in complemento a due in logica CMOS',Domande Blocchi costitutivi CMOS
+,b'pu\xc3\xb2 essere realizzato aggiungendo N inverter da un bit ad un sommatore a N bit.',
+,b'pu\xc3\xb2 essere realizzato aggiungendo N/2 inverter da un bit ad un sommatore a N bit.',
+,b'non pu\xc3\xb2 essere realizzato',
+,b'necessita si un area doppia rispetto ad un sommatore a N bit.',
+140,b'Il full-adder (sommatore completo) si differenzia dal half-adder (semi sommatore) in quanto il full adder',Domande Blocchi costitutivi CMOS
+,b'usa una logica per prevedere il riporto.',
+,b'\xc3\xa8 anche detto aritmetic logic unit (ALU).',
+,"b""permette di propagare il riporto dall'ingresso all'uscita""",
+,b'\xc3\xa8 pi\xc3\xb9 veloce del secondo.',
+141,b'La memoria RAM dinamica',Domande Blocchi costitutivi CMOS
+,b'\xc3\xa8 formata da celle di memorie composte da flip-flop di tipo D',
+,b'\xc3\xa8 formata da celle di memoria composte da transistori con gate flottante (floating gate transistor)',
+,b'\xc3\xa8 formata da celle di memoria composte da circuiti bistabili',
+,b'\xc3\xa8 formata da celle di memoria composte da condensatori.',
+142,b'Una memoria composta da 20 bits di indirizzamento e parole da 16 bits',Domande Blocchi costitutivi CMOS
+,b'2KBytes',
+,b'16Mbits',
+,b'16MBytes',
+,b'2Kbits',
+143,b'Una memoria composta da 32 bits di indirizzamento e parole da 8 bits ha dimensione pari a',Domande Blocchi costitutivi CMOS
+,b'4GBytes',
+,b'4GBits',
+,b'64KBytes',
+,b'64Kbits',
+144,b'La memoria ROM programmabile elettricamente',Domande Blocchi costitutivi CMOS
+,b'\xc3\xa8 formata da celle di memoria composte da condensatori.',
+,b'\xc3\xa8 formata da celle di memoria composte da transistori con gate flottante (floating gate transistor)',
+,b'\xc3\xa8 formata da celle di memoria composte da circuiti bistabili',
+,b'\xc3\xa8 formata da celle di memorie composte da flip-flop di tipo D',
+145,b'La memoria RAM statica',Domande Blocchi costitutivi CMOS
+,b'\xc3\xa8 formata da celle di memoria composte da circuiti bistabili',
+,b'\xc3\xa8 formata da celle di memorie composte da flip-flop di tipo D',
+,b'\xc3\xa8 formata da celle di memoria composte da condensatori.',
+,b'\xc3\xa8 formata da celle di memoria composte da transistori con gate flottante (floating gate transistor)',
+146,b'Una memoria composta da 20 bits di indirizzamento e parole da 32 bits ha dimensione pari a',Domande Blocchi costitutivi CMOS
+,b'2KBytes',
+,b'4Mbits',
+,b'2Kbits',
+,b'4MBytes',
+147,b'Il transistore pMOS si comporta come un interruttore aperto (interdetto) se:',Domande a risposta multipla
+,b'Il drain \xc3\xa8 connesso ad una tensione corrispondente ad un valore logico alto',
+,b'Il gate \xc3\xa8 connesso ad una tensione corrispondente ad un valore logico basso',
+,b'Il gate \xc3\xa8 connesso ad una tensione corrispondente ad un valore logico alto',
+,b'Il drain \xc3\xa8 connesso ad una tensione corrispondente ad un valore logico basso',
+148,b'Il transistore nMOS si comporta come un interruttore chiuso (conduce) se :',Domande a risposta multipla
+,b'Il gate \xc3\xa8 connesso ad una tensione corrispondente ad un valore logico alto',
+,b'Il drain \xc3\xa8 connesso ad una tensione corrispondente ad un valore logico basso',
+,b'Il gate \xc3\xa8 connesso ad una tensione corrispondente ad un valore logico basso',
+,b'Il drain \xc3\xa8 connesso ad una tensione corrispondente ad un valore logico alto',
+149,b'Il transistore pMOS si comporta come un interruttore chiuso (coduce) se:',Domande a risposta multipla
+,b'Il drain \xc3\xa8 connesso ad una tensione corrispondente ad un valore logico basso',
+,b'Il drain \xc3\xa8 connesso ad una tensione corrispondente ad un valore logico alto',
+,b'Il gate \xc3\xa8 connesso ad una tensione corrispondente ad un valore logico basso',
+,b'Il gate \xc3\xa8 connesso ad una tensione corrispondente ad un valore logico alto',
+150,b'Il transistore nMOS si comporta come un interruttore aperto (interdetto) se:',Domande a risposta multipla
+,b'Il gate \xc3\xa8 connesso ad una tensione corrispondente ad un valore logico alto',
+,b'Il drain \xc3\xa8 connesso ad una tensione corrispondente ad un valore logico basso',
+,b'Il gate \xc3\xa8 connesso ad una tensione corrispondente ad un valore logico basso',
+,b'Il drain \xc3\xa8 connesso ad una tensione corrispondente ad un valore logico alto',
+151,b'3 transistori connessi in serie si comportano',Domande a risposta multipla
+,b'come un transistore equivalente tre volte pi\xc3\xb9 conduttivo',
+,b'nessuna delle precedenti',
+,b'come un transistore equivalente tre volte pi\xc3\xb9 resistivo',
+,b'come tre transistori in parallelo',
+152,"b""Al diminuire\xe2\x88\x92\xe2\x88\x92\xe2\x88\x92\xe2\x88\x92\xe2\x88\x92\xe2\x88\x92\xe2\x88\x92\xe2\x88\x92diminuire_ del tempo di setup dei flip-flop all'interno di un circuito sequenziale, la frequenza massima\xe2\x88\x92\xe2\x88\x92\xe2\x88\x92\xe2\x88\x92\xe2\x88\x92\xe2\x88\x92\xe2\x88\x92\xe2\x88\x92massima_ del segnale di clock per la quale il circuito funziona correttamente:""",Simulazione Esame - compito eol - 28/05/2020
+,b'Diminuisce',
+,b'Resta invariata',
+,b'Aumenta',
+,b'Nessuna delle risposte precedenti',
+153,"b""Si consideri una rete CMOS come da figura.\xc2\xa0Considerare i seguenti valori per i parametri tecnologici:la resistenza equivalente di un transistor PMOS con fattore di forma S=1S=1 in modo ON\xc2\xa0 \xc3\xa8\xc2\xa0Rpmos,S=1=6.23kohmRpmos,S=1=6.23kohm .la resistenza equivalente di un transistor NMOS con fattore di forma S=1S=1 in modo ON\xc2\xa0 \xc3\xa8\xc2\xa0Rnmos,S=1=3.13kohmRnmos,S=1=3.13kohm .\xc2\xa0la capacit\xc3\xa0 di ingresso dell'inverter a carico del nodo XX \xc3\xa8 Cload=200fFCload=200fF .la tensione di alimentazione \xc3\xa8 VDD=0.8vVDD=0.8vDimensionare i transistor NMOS in modo che il tempo di propagazione da alto a basso del gate TPHLTPHL sia minore o uguale a 1.6ns.- Si consideri per il ramo di pull-down il critical path composto da 2 transistor in serie.""",Simulazione Esame - compito eol - 28/05/2020
+154,b'Si indichi quale delle seguenti espressioni booleane \xc3\xa8 realizzata dalla rete di pull-up\xc2\xa0 rappresentata in figura:\xc2\xa0',Simulazione Esame - compito eol - 28/05/2020
+155,"b""Si consideri una rete CMOS come da figura.\xc2\xa0Considerare i seguenti valori per i parametri tecnologici:la resistenza equivalente di un transistor PMOS con fattore di forma S=1S=1 in modo ON\xc2\xa0 \xc3\xa8\xc2\xa0Rpmos,S=1=6.23kohmRpmos,S=1=6.23kohm .la resistenza equivalente di un transistor NMOS con fattore di forma S=1S=1 in modo ON\xc2\xa0 \xc3\xa8\xc2\xa0Rnmos,S=1=3.13kohmRnmos,S=1=3.13kohm .\xc2\xa0la capacit\xc3\xa0 di ingresso dell'inverter a carico del nodo XX \xc3\xa8 Cload=200fFCload=200fF .la tensione di alimentazione \xc3\xa8 VDD=0.8vVDD=0.8v\xc2\xa0Se il gate \xc3\xa8 attivato ogni 1ns1ns, qual \xc3\xa8 il suo consumo di potenza? Ignorare il consumo dell'invertitore.""",Simulazione Esame - compito eol - 28/05/2020
+,b'uW',
+,b'W',
+,b'mW',
+,b'nW',
+156,"b'Si identifichi il cammino critico per la rete di pull-up del gate CMOS rappresentato in figura:Si identifichi la sequenza come (A=x,B=x,C=x)\xc2\xa0 t.c. x pu\xc3\xb2 valere 0 o 1 o X. Si dispongano i letterali in ordine alfabetico.'",Simulazione Esame - compito eol - 28/05/2020
+157,b'Quale dei seguenti numeri binari rappresenta il numero decimale -71 codificato in bit di segno',Simulazione Esame - compito eol - 28/05/2020
+,b'1100 0111',
+,b'0100 0111',
+,b'1011 1001',
+,b'1011 1000',
+158,"b""Il transistor nMOS all'interno dell'inverter CMOS in condizioni statiche \xc3\xa8 interdetto (OFF) se:""",Simulazione Esame - compito eol - 28/05/2020
+159,"b""Si faccia riferimento al circuito sequenziale in figura con segnale di clock (CLK), di Dato (\xc2\xa0 DINDIN ) come riportati. Quale delle forme d'onda riportate per l'uscita ( QOUTQOUT ) \xc3\xa8 corretta?\xc2\xa0""",Simulazione Esame - compito eol - 28/05/2020
+160,b'Quale funzione logica viene realizzata dal circuito in figura?',Simulazione Esame - compito eol - 28/05/2020
+161,"b""Facendo riferimento ad un gate complesso composto da un ramo di pull'up come da figura:Quali dei seguenti circuiti realizza il ramo di pull-down del gate complesso?""",Simulazione Esame - compito eol - 28/05/2020
+162,"b'Si identifichi per il cammino critico della rete di pull-down del gate CMOS rappresentato in figura la resistenza equivalente:Si indichi la resistenza equivalente\xc2\xa0REQ,NREQ,N considerando tutti i transistori nmos con resistenza ON equivalente tra loro ed uguale al valore RON,NRON,NREQ,N=N\xe2\x88\x97RON,NREQ,N=N\xe2\x88\x97RON,N'",Simulazione Esame - compito eol - 28/05/2020
+163,b'Si consideri il circuito in figura. Se X = 1 quale sar\xc3\xa0 il valore di Z ?',Simulazione Esame - compito eol - 28/05/2020
+,b'1',
+,b'A',
+,b'0',
+164,"b'Si identifichi il cammino critico per la rete di pull-down del gate CMOS rappresentato in figura:Si identifichi il percorso critico come lista dei transistor coinvolti nel percorso.\xc2\xa0Si indichino le etichette dei transistor ordinati in modo crescente. es:\xc2\xa0(n3,n4,n5,...)'",Simulazione Esame - compito eol - 28/05/2020
+165,"b'Si identifichi il cammino critico per la rete di pull-up del gate CMOS rappresentato in figura:Si identifichi il percorso critico come lista dei transistor coinvolti nel percorso.\xc2\xa0Si indichino le etichette dei transistor ordinati in modo crescente. es:\xc2\xa0(p2,p4,...)'",Simulazione Esame - compito eol - 28/05/2020
+166,"b'Si identifichi il cammino critico per la rete di pull-down del gate CMOS rappresentato in figura:Si identifichi la sequenza come (A=x,B=x,C=x)\xc2\xa0 t.c. x pu\xc3\xb2 valere 0 o 1 o X. Si dispongano i letterali in ordine alfabetico.'",Simulazione Esame - compito eol - 28/05/2020
+167,"b'Si identifichi per il cammino critico della rete di pull-up del gate CMOS rappresentato in figura la resistenza equivalente.Si indichi la resistenza equivalente\xc2\xa0REQ,PREQ,P considerando tutti i transistori pmos con resistenza ON equivalente tra loro ed uguale al valore RON,PRON,PREQ,P=N\xe2\x88\x97RON,PREQ,P=N\xe2\x88\x97RON,P'",Simulazione Esame - compito eol - 28/05/2020

@@ -1,5 +1,6 @@
 import json
 import sqlite3
+import csv
 
 class Question:
     def __init__(self, db_path: str) -> None:
@@ -41,3 +42,31 @@ class Question:
         db.close()
 
         return addable
+
+    def to_csv(self, path: str):
+        # Load db
+        db = sqlite3.connect(self.db_path)
+        c = db.cursor()
+
+        # Get questions with same text
+        c.execute('SELECT * FROM questions')
+        questions = c.fetchall()
+
+        # Close
+        db.commit()
+        db.close()
+
+        # Determinate if question needs to be added
+        with open(path, 'w', newline='') as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(['number','question', 'Source'])
+            
+            number = 0
+            for q_text, q_answers, q_quiz in questions:
+                writer.writerow([number, q_text.encode(encoding='UTF-8'), q_quiz])
+                number += 1
+
+                q_answers = json.loads(q_answers)
+                for a in q_answers:
+                    if(not(a is None)):
+                        writer.writerow(['', a.encode(encoding='UTF-8'), ''])
