@@ -56,7 +56,11 @@ class Scraper:
 
             self.quizzes[name] = Scraper.get_id_from_url(url)
 
-    def start_quiz(self, name: str, min_times_after_not_new: int = 1):
+    def start_quizzes(self, min_times_after_not_new: int = 2):
+        for quiz in self.quizzes:
+            self.start_quiz(quiz, min_times_after_not_new)
+
+    def start_quiz(self, name: str, min_times_after_not_new: int = 2):
         # Check if name in quizzes
         if name in self.quizzes:
             has_new = True

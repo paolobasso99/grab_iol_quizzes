@@ -15,7 +15,7 @@ scraper = Scraper(
 
 scraper.load_quizzes()
 
-scraper.start_quiz('Domande Circuiti Digitali', 2)
+scraper.start_quizzes()
 
 # Quit
 scraper.quit_driver()
