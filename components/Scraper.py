@@ -9,12 +9,12 @@ from urllib.parse import parse_qs
 from components.Question import Question
 
 class Scraper:
-    def __init__(self, iol_course_url: str, unibo_username: str, unibo_password: str, chromedriver_path: str, questions_db_path: str) -> None:
+    def __init__(self, iol_course_url: str, unibo_username: str, unibo_password: str, chromedriver_path: str, Question: object) -> None:
         self.iol_course_url = iol_course_url
         self.unibo_username = unibo_username
         self.unibo_password = unibo_password
         self.chromedriver_path = chromedriver_path
-        self.Question = Question(questions_db_path)
+        self.Question = Question
 
         self.quizzes = {}
 
